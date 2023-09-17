@@ -1,5 +1,7 @@
-https://milehighmoments.atlassian.net/jira/software/projects/MHP/boards/1
-https://www.figma.com/file/RPndtLLSYOIZRptNKa9ewZ/Jen's-Personal-Website?type=design&node-id=0%3A1&mode=design&t=9Ib71sbKs8RZwNrO-1
+[JIRA](https://milehighmoments.atlassian.net/jira/software/projects/MHP/boards/1)
+[FIGMA](https://www.figma.com/file/RPndtLLSYOIZRptNKa9ewZ/Jen's-Personal-Website?type=design&node-id=0%3A1&mode=design&t=9Ib71sbKs8RZwNrO-1)
+
+[![jest tested](https://img.shields.io/badge/Jest-tested-eee.svg?logo=jest&labelColor=99424f)](https://github.com/jestjs/jest)
 
 **WARNING: This is the documentation for `razzle@next` (Webpack 4).**  
 [Go here for for razzle@0.8.x (stable) docs (Webpack 3)](https://github.com/jaredpalmer/razzle/tree/master).
